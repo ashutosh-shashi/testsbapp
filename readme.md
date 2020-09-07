@@ -11,3 +11,5 @@
     docker run -p 8080:8080 -t ashutosh3/mytest1:0.0.1-SNAPSHOT
 6. verify application by browsing :
     localhost:8080
+
+### -- Ashutosh Shashi
